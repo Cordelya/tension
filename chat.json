@@ -1,0 +1,164 @@
+[
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "General question: a monthly or biweekly online discussion: good thing or bad?",
+        "ts": "1495466531.917112"
+    },
+    {
+        "type": "message",
+        "user": "U5D2XSRPA",
+        "text": "Discussions in general are good. A scheduled one definitely, since not everyone is around here all the time.",
+        "ts": "1495466731.995381"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "Okay ... which days or evenings would be good?  For myself Wednesday nights are out, and Monday nights are squiffy.  Weekends would be coopted by events.",
+        "ts": "1495466873.050275"
+    },
+    {
+        "type": "message",
+        "user": "U5D2XSRPA",
+        "text": "Haha, for me, Mondays, Tuesdays are out, Thursdays are...I enjoy this work \"squiffy\". Tuesdays could be okay for me, 'cause it's band practice, and I can multi-task if needed. Maybe send out an email poll?",
+        "ts": "1495467011.104590"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "Good idea.",
+        "ts": "1495467343.237493"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "Ladies and gentleman,\n\nWe would like to start hosting biweekly or monthly discussions online at a set (scheduled) time on the kingdom slack page.  These discussions could range from \"how do I X?\" to \"What should we focus on first?\" and beyond.  The first step is to encourage people to join the slack team (so email me if you want an account) and to find a congenial date.  \n\nPersonally, Wednesday nights are out, and weekends are typically squiffy due to events, and I would like to hear from y'all which days\/nights would work for you.\n\nEowyn de Wever",
+        "ts": "1495467553.317652"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "How does that sound?",
+        "ts": "1495467559.319839"
+    },
+    {
+        "type": "message",
+        "user": "U5D2XSRPA",
+        "text": "That sounds perfect!",
+        "ts": "1495470381.389101"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "Good ... it went out.  :slightly_smiling_face:",
+        "ts": "1495470432.406313"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "Could you reply again, but hit reply all?  Otherwise only I get to see the response.  :slightly_smiling_face:",
+        "ts": "1495470503.430951"
+    },
+    {
+        "type": "message",
+        "user": "U5D2XSRPA",
+        "text": "yep, can do!",
+        "ts": "1495470523.437769"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "So far someone has a no go on every single weekday evening.  &lt;wry grin&gt;",
+        "ts": "1495477250.738732"
+    },
+    {
+        "type": "message",
+        "user": "U5D2XSRPA",
+        "text": "Not surprising. We could always do them biweekly, and one week they are on one day that works for like half and the next for the others?",
+        "ts": "1495477286.750718"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "That could work ...",
+        "ts": "1495477375.780930"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "And if we have them here, people can also go back and reread messages ...",
+        "ts": "1495477384.784014"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "To a point, sadly, since at a certain point messages roll off the back end.",
+        "ts": "1495477399.789163"
+    },
+    {
+        "type": "message",
+        "user": "U0BK1U0QP",
+        "text": "Maybe it's time to apply for non-profit status with Slack? ",
+        "ts": "1495477435.801991"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "There are ... issues with that.",
+        "ts": "1495477548.840921"
+    },
+    {
+        "type": "message",
+        "user": "U0BK1U0QP",
+        "text": "Crap ",
+        "ts": "1495477558.844440"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "The two main ones are that a) there's a 250 active user limit on that.  And if the 251st user becomes active, you suddenly owe over 3200 dollars.  A month.",
+        "ts": "1495477584.853224"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "The second, and here we're waiting on the society webminister for clarification, is whether we can apply for a slack team for each kingdom, or only for the society as a whole.  There are arguments both ways, apparently.",
+        "ts": "1495477622.865812"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "(As an addendum, the slack support team has not been willing to clearly specify what the definition of an \"active\" user is.)",
+        "ts": "1495477675.883735"
+    },
+    {
+        "type": "message",
+        "user": "U5D2XSRPA",
+        "text": "Unhelpful. Is there maybe a better program we could use?",
+        "ts": "1495477699.891523"
+    },
+    {
+        "type": "message",
+        "user": "U0BK1U0QP",
+        "text": "Could look into basic irc for this. export the chat log at the end of the discussion... Email it to the spiders list ",
+        "ts": "1495477798.925218"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "On the other hand, as long as we don't apply for the non-profit version of the standard plan, slack is completely free no matter how many team members we have.",
+        "ts": "1495477810.929633"
+    },
+    {
+        "type": "message",
+        "user": "U0BK00JVB",
+        "text": "There may be a way for team admins to export the log.",
+        "ts": "1495477876.952992"
+    },
+    {
+        "type": "message",
+        "user": "U0BK1U0QP",
+        "text": "I can look into that... ",
+        "ts": "1495477894.959384"
+    }
+]

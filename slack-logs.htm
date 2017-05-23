@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Slack Chat Log Converter</title>
+<!--
+Slack Chat Log Converter
+========================
+
+This document assumes that you are providing two files in the same directory:
+1. the exported chat log, named chat.json
+2. the users data, named users.json
+
+If you wish to provide differently-named files, you will need to adjust the
+names of the requested files in the two lines below
+
+JSON data prototype
+==================
+users.json is organized as follows:
+
+-->
+<script type="text/javascript" src="users.json"></script>
+<script type="text/javascript" src="chat.json"></script>
+</head>
+<body>
+
+  <h1>Slack Archives to HTML Converter</h1>
+<form id="chat" onsubmit="parse()">
+  <label for="users">Paste users file here</label>
+<textarea name="users" id="users"></textarea>
+<br/>
+<label for "chat">Paste chat file here</label>
+<textarea name="chat" id="chat"></textarea>
+<input type="submit" value="Submit"/>
+</form>
+
+
+<script type="text/javascript">
+
+var users = JSON.parse(users);
+var chat = JSON.parse(chat);
+console.dir(users);
+console.dir(chat);
+
+function parse() {
+
+console.log("Starting the parse function");
+  // import JSON from the HTML form elements
+
+usersList = JSON.parse(document.getElementById("chat").elements["users"]); //load users.json into variable "users"
+if (usersList) {console.log("Created usersList object");}
+
+chatLog = JSON.parse(document.getElementById("chat").elements["chat"]); // load chat.json in to variable "chat"
+if (chatLog) {console.log("Created chatLog object")}
+
+console.dir(chatLog);
+console.dir(usersList);
+
+document.write("<p>" + chatLog[0].text + "</p>");
+console.log("Done parsing");
+
+/*
+forEach(chat) { // loop through each chat log record and replace user id with username
+  document.write("<p><b>"); // open a paragraph and prepare to display username
+  var id = chat.["user"];
+  console.log(id);
+    // using chat.user, loop through users until you find a match, then store into var name
+    //TODO write loop
+    /*
+    forEach(users) {
+    document.write(name + ":</b> "); // insert the user name followed by colon, close bold, add space
+    document.write(chat.text + "</p>"); // insert chat entry and close the paragraph
+
+    }
+  }
+*/
+}
+
+
+
+</script>
+
+</body>
+
+</html>
